@@ -12,6 +12,7 @@ This project is developed for academic purposes.
 
 - Project Title: Online Voting System
 - Class: CA222
+- Group Name:Group J
 - Number of Members: 4
 
 ### Group Members
@@ -71,3 +72,4 @@ This project is developed for academic purposes.
 ## GitHub Submission
 All project files including PHP files, database, and README.md have been uploaded
 to this GitHub repository as required.
+
